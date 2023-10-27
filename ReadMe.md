@@ -14,6 +14,6 @@ Hi, I’m Marcos a Computer Science student at PUCRS.
 <div>
   <a href = "https://github.com/ferreira-marcos">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=ferreira-marcos&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreira-marcos&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreira-marcos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
